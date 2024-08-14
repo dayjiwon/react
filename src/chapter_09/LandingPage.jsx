@@ -1,3 +1,5 @@
+// 로그인 여부를 나타내는 툴바 만들기
+
 import React, { useState } from "react";
 import Toolbar from "./Toolbar";
 
