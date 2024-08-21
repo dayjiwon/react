@@ -1,4 +1,4 @@
-// 로그인 여부를 나타내는 툴바 만들기
+// 출석부 출력하기
 
 import React from "react";
 
